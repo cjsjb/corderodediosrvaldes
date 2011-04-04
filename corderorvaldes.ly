@@ -29,7 +29,7 @@ globalTempo = {
 
 		\include "corderorvaldes-acordes.inc"
 		\include "corderorvaldes-soprano.inc"
-		%\include "corderorvaldes-mezzo.inc"
+		\include "corderorvaldes-mezzo.inc"
 		\include "corderorvaldes-tenor.inc"
 
 	>>
