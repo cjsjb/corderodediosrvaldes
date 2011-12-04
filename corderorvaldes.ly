@@ -5,6 +5,7 @@
 \header {
 	title = "Cordero de Dios"
 	composer = "Romeo Valdés"
+	copyright = "Copyright © 1970 Romeo Valdés"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
