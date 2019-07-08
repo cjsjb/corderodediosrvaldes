@@ -4,8 +4,8 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Cordero de Dios"
-	composer = "Romeo Valdés"
-	copyright = "Copyright © 1970 Romeo Valdés"
+	composer = "Romeo Alfonso Valdés Villarreal"
+	copyright = "Copyright © 1970 Romeo Alfonso Valdés Villarreal"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)

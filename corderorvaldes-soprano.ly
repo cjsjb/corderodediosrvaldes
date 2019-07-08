@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Cordero de Dios"
-	composer = "Romeo Valdés"
+	composer = "Romeo Alfonso Valdés Villarreal"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Soprano"
 }
