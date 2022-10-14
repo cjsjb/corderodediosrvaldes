@@ -52,7 +52,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		%\set ignoreMelismata = ##t
 		"Cor" -- "de" -- "ro" "de" "Dios,"
 		"que" "qui" -- "tas" "el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
