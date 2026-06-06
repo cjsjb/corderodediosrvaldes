@@ -7,3 +7,5 @@ partitura_tiempos = {
         \time 4/4
         \tempo 4 = 135
 }
+
+partitura_archivo = "corderorvaldes"
